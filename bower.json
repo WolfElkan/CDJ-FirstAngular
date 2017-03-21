@@ -1,0 +1,23 @@
+{
+  "name": "first_angular",
+  "authors": [
+    "Wolf Elkan <wolf.elkan@gmail.com>"
+  ],
+  "description": "http://learn.codingdojo.com/m/4/3708/24902",
+  "main": "server.js",
+  "keywords": [
+    "CodingDojo"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.3"
+  }
+}
